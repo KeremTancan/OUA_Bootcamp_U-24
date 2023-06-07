@@ -74,7 +74,7 @@ Sprint Review katılımcıları:
 
 ## Product Backlog URL
 
-[Team U24 Trello Backlog Board]()
+[Team U24 Trello Backlog Board](https://trello.com/b/tn26rrG3/spri%CC%87nt-2)
 
 ---
 
@@ -105,7 +105,7 @@ Sprint Review katılımcıları:
 
 ## Product Backlog URL
 
-[Team U24 Miro Backlog Board]()
+[Team U24 Miro Backlog Board](https://trello.com/b/qiuc8Jgr/spri%CC%87nt-3)
 
 ---
 

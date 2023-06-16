@@ -6,6 +6,7 @@ public class PauseAnimations : MonoBehaviour
 {
     private bool paused = false;
     private float pauseDuration = 5f;
+    private int stopCounter = 0;
 
     void Update()
     {
@@ -17,8 +18,13 @@ public class PauseAnimations : MonoBehaviour
 
     void StopAnimations()
     {
-        paused = true;
-        StartCoroutine(StartAnimations());
+        if (stopCounter < 2)
+        {
+            paused = true;
+            StartCoroutine(StartAnimations());
+            stopCounter++;
+        }
+        
     }
 
     IEnumerator StartAnimations()

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SlowMotion : MonoBehaviour
 {
-    public float slowdownLength = 2f;
+    public float slowdownLength = 8f;
         
 
     void Start()
@@ -17,12 +17,15 @@ public class SlowMotion : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Q)) 
         {
-            Time.timeScale = 0.4f;
+            Time.timeScale = 0.2f;
         }
-        else if (Input.GetKeyUp(KeyCode.Q))
+        else
         {
-            //Time.timeScale = 1;
-
+            Time.timeScale += (1f / slowdownLength) * Time.unscaledDeltaTime;
+            Time.timeScale = Mathf.Clamp(Time.timeScale, 0f, 1f);
+            
         }
+        
+        
     }
 }

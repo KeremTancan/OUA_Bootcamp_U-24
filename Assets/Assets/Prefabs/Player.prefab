@@ -1429,6 +1429,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4449356809981097213}
+  - component: {fileID: 3276334497178482361}
   m_Layer: 0
   m_Name: mixamorig:Hips
   m_TagString: Untagged
@@ -1454,6 +1455,29 @@ Transform:
   m_Father: {fileID: 8817092933589655473}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!136 &3276334497178482361
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6801533119515559571}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.347678
+  m_Height: 1.9897058
+  m_Direction: 1
+  m_Center: {x: 7.297011e-13, y: 0.37470758, z: -0.152322}
 --- !u!1 &6858993994411890803
 GameObject:
   m_ObjectHideFlags: 0
@@ -1498,7 +1522,6 @@ GameObject:
   - component: {fileID: 1904566603167798295}
   - component: {fileID: 7829447094735019395}
   - component: {fileID: 4915778772962797720}
-  - component: {fileID: 1651249164200109062}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -1559,6 +1582,7 @@ MonoBehaviour:
   _rb: {fileID: 4915778772962797720}
   _speed: 5
   _turnSpeed: 360
+  jumpForce: 5
 --- !u!54 &4915778772962797720
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1586,29 +1610,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 112
   m_CollisionDetection: 0
---- !u!136 &1651249164200109062
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7041510940183442148}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.3671422
-  m_Height: 2.02802
-  m_Direction: 1
-  m_Center: {x: 0, y: 1.0218, z: -0.14011979}
 --- !u!1 &7159669709222351145
 GameObject:
   m_ObjectHideFlags: 0
@@ -2146,11 +2147,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 3675845208975212973}
+  - {fileID: 3835937306379080371}
   - {fileID: 7666910397739540693}
   - {fileID: 5099857515863283787}
   - {fileID: 8478174405705804335}
-  - {fileID: 3835937306379080371}
-  - {fileID: 3675845208975212973}
   m_Father: {fileID: 7281464031055875990}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

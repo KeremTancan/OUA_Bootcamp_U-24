@@ -12,6 +12,7 @@ public class Movement : MonoBehaviour
     private bool onGround = false;
 
     Animator anim;
+    public float jumpForce = 2f;
 
     private void Start()
     {
@@ -27,6 +28,7 @@ public class Movement : MonoBehaviour
     {
         anim.SetBool("isRunning", false);
         anim.SetBool("isJumping", false);
+        
 
         if (_input != Vector3.zero)
         {
@@ -34,9 +36,13 @@ public class Movement : MonoBehaviour
             anim.SetBool("isRunning", true);
         }
 
-        if( Input.GetButtonDown("Jump"))
+        if(onGround && Input.GetKeyDown(KeyCode.Space))
         {
+            Debug.Log("zýpladý");
+            onGround = false;
             anim.SetTrigger("isJumping");
+            GetComponent<Rigidbody>().AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            
         }
 
 
@@ -47,6 +53,7 @@ public class Movement : MonoBehaviour
         {
             onGround = true;
         }
+        
     }
     private void GatherInput()
     {

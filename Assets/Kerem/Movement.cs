@@ -9,7 +9,15 @@ public class Movement : MonoBehaviour
     [SerializeField] private float _speed = 5;
     [SerializeField] private float _turnSpeed = 360;
     private Vector3 _input;
+    private bool onGround = false;
 
+    Animator anim;
+    public float jumpForce = 2f;
+
+    private void Start()
+    {
+        anim = GetComponent<Animator>();
+    }
     private void Update()
     {
         GatherInput();
@@ -18,7 +26,34 @@ public class Movement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Move();
+        anim.SetBool("isRunning", false);
+        anim.SetBool("isJumping", false);
+        
+
+        if (_input != Vector3.zero)
+        {
+            Move();
+            anim.SetBool("isRunning", true);
+        }
+
+        if(onGround && Input.GetKeyDown(KeyCode.Space))
+        {
+            Debug.Log("zýpladý");
+            onGround = false;
+            anim.SetTrigger("isJumping");
+            GetComponent<Rigidbody>().AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+            
+        }
+
+
+    }
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            onGround = true;
+        }
+        
     }
     private void GatherInput()
     {
@@ -37,6 +72,7 @@ public class Movement : MonoBehaviour
     private void Move()
     {
         _rb.MovePosition(transform.position + transform.forward * _input.normalized.magnitude * _speed * Time.deltaTime);
+        
     }
 
     

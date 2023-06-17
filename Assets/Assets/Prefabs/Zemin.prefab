@@ -14,10 +14,10 @@ GameObject:
   - component: {fileID: 1553489428728722104}
   m_Layer: 0
   m_Name: Zemin
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6940561190984707109
 Transform:
@@ -33,7 +33,7 @@ Transform:
   m_Children:
   - {fileID: 2446943071988425828}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
 --- !u!33 &5434136020890525121
 MeshFilter:
@@ -123,7 +123,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &2446943071988425828
 Transform:

@@ -154,10 +154,10 @@ GameObject:
   - component: {fileID: 18247373}
   m_Layer: 0
   m_Name: Zemin
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &18247373
 Transform:
@@ -364,7 +364,7 @@ Transform:
   - {fileID: 2101000838}
   - {fileID: 985940950}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &19305955 stripped
 Transform:
@@ -397,6 +397,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (150)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -442,6 +446,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -473,6 +481,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -518,6 +530,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -534,6 +550,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -579,6 +599,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -595,6 +619,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -640,6 +668,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -661,6 +693,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (93)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -706,6 +742,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -732,6 +772,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (164)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -777,6 +821,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -798,6 +846,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -843,6 +895,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -864,6 +920,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (144)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -909,6 +969,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -930,6 +994,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -975,6 +1043,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -991,6 +1063,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (187)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1036,6 +1112,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1052,6 +1132,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1097,6 +1181,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1113,6 +1201,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (157)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1158,6 +1250,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1174,6 +1270,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (161)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1219,6 +1319,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1245,6 +1349,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (125)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1290,6 +1398,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1306,6 +1418,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1351,6 +1467,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1367,6 +1487,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1412,6 +1536,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1443,6 +1571,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1488,6 +1620,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1504,6 +1640,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (184)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1549,6 +1689,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1565,6 +1709,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (175)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1609,6 +1757,10 @@ PrefabInstance:
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1729,6 +1881,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zemin (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -1773,6 +1929,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1794,6 +1954,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1839,6 +2003,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1855,6 +2023,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (107)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1900,6 +2072,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1931,6 +2107,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -1976,6 +2156,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2002,6 +2186,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2047,6 +2235,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2063,6 +2255,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2108,6 +2304,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2124,6 +2324,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (103)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2169,6 +2373,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2195,6 +2403,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (156)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2240,6 +2452,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2261,6 +2477,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2306,6 +2526,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2322,6 +2546,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (118)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2367,6 +2595,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2383,6 +2615,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (128)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2428,6 +2664,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2449,6 +2689,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2494,6 +2738,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2520,6 +2768,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (188)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2565,6 +2817,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2581,6 +2837,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (114)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2626,6 +2886,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2642,6 +2906,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2687,6 +2955,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2703,6 +2975,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2748,6 +3024,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2769,6 +3049,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2814,6 +3098,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2845,6 +3133,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (169)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2890,6 +3182,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2906,6 +3202,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (165)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -2951,6 +3251,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2972,6 +3276,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3017,6 +3325,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3038,6 +3350,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (179)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3083,6 +3399,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3114,6 +3434,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (151)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3159,6 +3483,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3185,6 +3513,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3230,6 +3562,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3246,6 +3582,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3291,6 +3631,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3307,6 +3651,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (100)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3352,6 +3700,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3378,6 +3730,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (152)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3423,6 +3779,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3439,6 +3799,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3484,6 +3848,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3510,6 +3878,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3555,6 +3927,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3571,6 +3947,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3616,6 +3996,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3632,6 +4016,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (126)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3677,6 +4065,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3693,6 +4085,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3738,6 +4134,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3769,6 +4169,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (131)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3814,6 +4218,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3840,6 +4248,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (119)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3885,6 +4297,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3901,6 +4317,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -3946,6 +4366,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3972,6 +4396,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4017,6 +4445,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4033,6 +4465,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4078,6 +4514,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4094,6 +4534,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (163)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4139,6 +4583,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4155,6 +4603,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4200,6 +4652,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4216,6 +4672,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (123)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4261,6 +4721,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4277,6 +4741,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (80)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4322,6 +4790,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4338,6 +4810,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (106)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4383,6 +4859,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4414,6 +4894,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (88)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4459,6 +4943,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4485,6 +4973,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (109)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4530,6 +5022,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4556,6 +5052,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (181)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4601,6 +5101,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4627,6 +5131,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (155)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4672,6 +5180,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4688,6 +5200,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4733,6 +5249,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4749,6 +5269,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (149)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4793,6 +5317,10 @@ PrefabInstance:
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4836,6 +5364,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zemin (53)
       objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -4880,6 +5412,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4901,6 +5437,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (141)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -4946,6 +5486,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4956,71 +5500,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
   m_PrefabInstance: {fileID: 1190720850}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &774726934
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1.2683477
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.91
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 2.15
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5612146938673757322, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8273461382445929987, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -3.577
-      objectReference: {fileID: 0}
-    - target: {fileID: 8660350390320712130, guid: a5e1e33c527974343bb7741946fef290, type: 3}
-      propertyPath: m_Name
-      value: Player
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: a5e1e33c527974343bb7741946fef290, type: 3}
 --- !u!4 &780521385 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
@@ -5037,6 +5516,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5082,6 +5565,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5113,6 +5600,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5158,6 +5649,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5184,6 +5679,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (129)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5229,6 +5728,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5260,6 +5763,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (145)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5305,6 +5812,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5321,6 +5832,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5366,6 +5881,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5392,6 +5911,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (124)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5437,6 +5960,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5453,6 +5980,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (104)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5498,6 +6029,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5514,6 +6049,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (92)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5559,6 +6098,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5580,6 +6123,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (142)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5624,6 +6171,10 @@ PrefabInstance:
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5667,6 +6218,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zemin (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -5711,6 +6266,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5727,6 +6286,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5772,6 +6335,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5793,6 +6360,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (112)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5838,6 +6409,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5859,6 +6434,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (86)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5904,6 +6483,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5920,6 +6503,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (177)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -5965,6 +6552,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5981,6 +6572,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6026,6 +6621,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6052,6 +6651,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (97)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6097,6 +6700,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6113,6 +6720,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (132)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6158,6 +6769,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6184,6 +6799,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (102)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6229,6 +6848,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6250,6 +6873,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (130)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6295,6 +6922,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6321,6 +6952,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6366,6 +7001,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6382,6 +7021,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6427,6 +7070,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6448,6 +7095,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6493,6 +7144,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6509,6 +7164,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (115)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6554,6 +7213,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6575,6 +7238,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6620,6 +7287,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6656,6 +7327,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6701,6 +7376,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6717,6 +7396,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6762,6 +7445,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6778,6 +7465,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (143)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6823,6 +7514,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6844,6 +7539,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (101)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6889,6 +7588,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6905,6 +7608,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -6950,6 +7657,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6966,6 +7677,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7011,6 +7726,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7037,6 +7756,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7082,6 +7805,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7103,6 +7830,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (94)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7148,6 +7879,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7169,6 +7904,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (139)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7213,6 +7952,10 @@ PrefabInstance:
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7256,6 +7999,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zemin (89)
       objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -7300,6 +8047,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7321,6 +8072,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7366,6 +8121,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7387,6 +8146,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7432,6 +8195,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7453,6 +8220,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7498,6 +8269,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7514,6 +8289,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7559,6 +8338,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7575,6 +8358,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (136)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7620,6 +8407,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7636,6 +8427,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (116)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7681,6 +8476,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7702,6 +8501,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (113)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7747,6 +8550,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7763,6 +8570,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7808,6 +8619,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7824,6 +8639,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7869,6 +8688,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7885,6 +8708,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (186)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7930,6 +8757,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7946,6 +8777,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -7991,6 +8826,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8007,6 +8846,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (127)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8052,6 +8895,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8068,6 +8915,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (52)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8113,6 +8964,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8129,6 +8984,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (182)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8174,6 +9033,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8190,6 +9053,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (154)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8235,6 +9102,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8256,6 +9127,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8301,6 +9176,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8317,6 +9196,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (135)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8362,6 +9245,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8378,6 +9265,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8423,6 +9314,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8437,6 +9332,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1395080149}
+  - component: {fileID: 1395080150}
   m_Layer: 0
   m_Name: Camera Pivot
   m_TagString: Untagged
@@ -8460,6 +9356,21 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 30, y: 45, z: 0}
+--- !u!114 &1395080150
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395080148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b60ebf2704ec4e64a9a96fa9989ed73d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 1430546480}
+  offset: {x: 0, y: 0, z: 0}
+  smoothSpeed: 0.5
 --- !u!4 &1396627541 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
@@ -8476,6 +9387,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8521,6 +9436,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8537,6 +9456,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8582,6 +9505,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8598,6 +9525,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (120)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8643,11 +9574,20 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+--- !u!4 &1430546480 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+  m_PrefabInstance: {fileID: 3564888719002096273}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1433390842 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
@@ -8679,6 +9619,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8724,6 +9668,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8745,6 +9693,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8790,6 +9742,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8821,6 +9777,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8866,6 +9826,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8887,6 +9851,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8932,6 +9900,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8948,6 +9920,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (146)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -8993,6 +9969,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9029,6 +10009,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (190)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9074,6 +10058,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9095,6 +10083,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (121)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9140,6 +10132,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9161,6 +10157,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9206,6 +10206,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9222,6 +10226,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9267,6 +10275,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9288,6 +10300,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (111)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9333,6 +10349,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9349,6 +10369,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (185)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9394,6 +10418,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9415,6 +10443,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (172)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9460,6 +10492,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9476,6 +10512,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (178)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9521,6 +10561,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9537,6 +10581,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9582,6 +10630,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9598,6 +10650,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9643,6 +10699,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9664,6 +10724,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9709,6 +10773,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9725,6 +10793,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (105)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9770,6 +10842,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9786,6 +10862,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (174)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9831,6 +10911,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9847,6 +10931,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (158)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9892,6 +10980,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9913,6 +11005,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (133)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -9958,6 +11054,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9974,6 +11074,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (171)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10019,6 +11123,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10035,6 +11143,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (189)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10080,6 +11192,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10106,6 +11222,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10151,6 +11271,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10182,6 +11306,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (140)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10227,6 +11355,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10253,6 +11385,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10298,6 +11434,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10314,6 +11454,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10359,6 +11503,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10385,6 +11533,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10430,6 +11582,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10446,6 +11602,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (134)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10491,6 +11651,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10507,6 +11671,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (162)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10552,6 +11720,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10568,6 +11740,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (159)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10613,6 +11789,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10629,6 +11809,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (122)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10674,6 +11858,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10690,6 +11878,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (153)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10735,6 +11927,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10756,6 +11952,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (180)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10801,6 +12001,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10827,6 +12031,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (167)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -10871,6 +12079,10 @@ PrefabInstance:
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10969,7 +12181,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!4 &1801086967 stripped
 Transform:
@@ -10987,6 +12199,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11032,6 +12248,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11058,6 +12278,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11103,6 +12327,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11119,6 +12347,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (183)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11164,6 +12396,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11180,6 +12416,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (82)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11225,6 +12465,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11241,6 +12485,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (173)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11286,6 +12534,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11302,6 +12554,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (117)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11347,6 +12603,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11368,6 +12628,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (108)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11413,6 +12677,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11449,6 +12717,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11494,6 +12766,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11510,6 +12786,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (137)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11555,6 +12835,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11571,6 +12855,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11616,6 +12904,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11632,6 +12924,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11677,6 +12973,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11693,6 +12993,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (96)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11738,6 +13042,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11764,6 +13072,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (110)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11809,6 +13121,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11825,6 +13141,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (138)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11870,6 +13190,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11891,6 +13215,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -11936,6 +13264,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11957,6 +13289,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12002,6 +13338,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12018,6 +13358,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (98)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12063,6 +13407,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12094,6 +13442,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12139,6 +13491,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12155,6 +13511,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (170)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12200,6 +13560,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12221,6 +13585,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (191)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12266,6 +13634,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12297,6 +13669,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12342,6 +13718,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12368,6 +13748,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (147)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12413,6 +13797,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12429,6 +13817,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (160)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12474,6 +13866,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12490,6 +13886,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (168)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12534,6 +13934,10 @@ PrefabInstance:
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12681,7 +14085,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2025427131}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9396be1140894ef44923b36fd3fa7c97, type: 3}
   m_Name: 
@@ -12689,6 +14093,7 @@ MonoBehaviour:
   _rb: {fileID: 2025427132}
   _speed: 5
   _turnSpeed: 360
+  jumpForce: 5
 --- !u!4 &2028994591 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
@@ -12705,6 +14110,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12750,6 +14159,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12781,6 +14194,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (95)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12826,6 +14243,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12852,6 +14273,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (166)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12897,6 +14322,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12913,6 +14342,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -12957,6 +14390,10 @@ PrefabInstance:
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13025,6 +14462,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zemin (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
       value: -1
@@ -13069,6 +14510,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13090,6 +14535,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (99)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -13135,6 +14584,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13151,6 +14604,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -13196,6 +14653,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13212,6 +14673,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -13257,6 +14722,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13273,6 +14742,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (148)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -13318,6 +14791,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13334,6 +14811,10 @@ PrefabInstance:
     - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_Name
       value: Zemin (176)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6627746016147722711, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
       propertyPath: m_RootOrder
@@ -13379,11 +14860,80 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8767935956239078975, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}
+--- !u!1001 &3564888719002096273
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3276334497178482361, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7041510940183442148, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_Name
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.2424848
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.729
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.545
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8817092933589655473, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 80cf5aeafae98ab42b6c21c99095ab94, type: 3}
 --- !u!4 &4013905468093839437 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6940561190984707109, guid: acd051449ada52e45a135fd6a063ad0e, type: 3}

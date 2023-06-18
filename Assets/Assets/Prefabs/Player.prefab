@@ -1581,7 +1581,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _rb: {fileID: 4915778772962797720}
   _speed: 5
-  _turnSpeed: 360
+  _turnSpeed: 600
   jumpForce: 5
 --- !u!54 &4915778772962797720
 Rigidbody:

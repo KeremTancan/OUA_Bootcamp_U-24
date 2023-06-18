@@ -14,6 +14,8 @@ public class Movement : MonoBehaviour
     Animator anim;
     public float jumpForce = 2f;
 
+    TimeRewindObjectt timeScript;
+
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -38,14 +40,13 @@ public class Movement : MonoBehaviour
 
         if(onGround && Input.GetKeyDown(KeyCode.Space))
         {
-            Debug.Log("zýpladý");
+            
             onGround = false;
             anim.SetTrigger("isJumping");
             GetComponent<Rigidbody>().AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             
         }
-
-
+        
     }
     private void OnCollisionEnter(Collision collision)
     {

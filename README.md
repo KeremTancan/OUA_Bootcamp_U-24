@@ -52,16 +52,15 @@ Bir müzedeki kayıp eşyaları zamanda yolculuk yaparak bulup getirmeyi misyon 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
+- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.SPRİNT%20(dailyscrumgörüntüleri).docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
+![Backlog 1](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.%20sprint%20sonu.jpeg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
-  ![Screenshot 3]()
+  ![Screenshots](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.SPRİNT%20(dailyscrumgörüntüleri).docx)
+  
 - **Sprint Review**: 
 Alınan kararlar: (?)
 Sprint Review katılımcıları: 

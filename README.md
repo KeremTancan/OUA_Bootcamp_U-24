@@ -30,11 +30,11 @@ Bir müzedeki kayıp eşyaları zamanda yolculuk yaparak bulup getirmeyi misyon 
 
 ## Ürün Özellikleri
 
-(?)
+İzometrik bakış açısına sahip ve zamanı kontrol etme ögeleriyle platformları tamamlamak için puzzle çözme macera oyunudur.
 
 ## Hedef Kitle
 
-- (?)
+Oyun 8 yaş üzeri herkese hitap ediyor
 
 
 ## Juriye Not

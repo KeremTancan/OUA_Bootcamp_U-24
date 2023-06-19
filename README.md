@@ -62,11 +62,11 @@ Oyun 8 yaş üzeri herkese hitap ediyor
   ![Screenshots](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.SPRİNT%20(dailyscrumgörüntüleri).docx)
   
 - **Sprint Review**: 
-Alınan kararlar: (?)
-Sprint Review katılımcıları: 
+İlk tema için tüm modeller oluşturuldu ve üç level tasarımı da tamamlandı. Ana mekanikler olan zaman mekaniklerinin üçü de yapıldı. Karakter modeli yapıldı ve kontrol mekaniği yapıldı.
+Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran, Cem Demir, Zeynep Kuru.
 
 - **Sprint Retrospective:**
-  - (?)
+  - 19.06.2023 20.00 tarihinde toplantı yapılacak ve notları buraya aktarılacaktır.
 
 
 ---

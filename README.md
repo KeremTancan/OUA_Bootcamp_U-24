@@ -59,7 +59,9 @@ Oyun 8 yaş üzeri herkese hitap ediyor
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshots](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.SPRİNT%20(dailyscrumgörüntüleri).docx)
+  ![Screenshots](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/karakter.jpeg)
+  ![Screenshots](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/level.jpeg)
+  ![Screenshots](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/oyundan%20g%C3%B6r%C3%BCnt%C3%BC.jpeg)
   
 - **Sprint Review**: 
 İlk tema için tüm modeller oluşturuldu ve üç level tasarımı da tamamlandı. Ana mekanikler olan zaman mekaniklerinin üçü de yapıldı. Karakter modeli yapıldı ve kontrol mekaniği yapıldı.

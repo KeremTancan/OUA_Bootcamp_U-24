@@ -30,11 +30,11 @@ Bir müzedeki kayıp eşyaları zamanda yolculuk yaparak bulup getirmeyi misyon 
 
 ## Ürün Özellikleri
 
-(?)
+İzometrik bakış açısına sahip ve zamanı kontrol etme ögeleriyle platformları tamamlamak için puzzle çözme macera oyunudur.
 
 ## Hedef Kitle
 
-- (?)
+Oyun 8 yaş üzeri herkese hitap ediyor
 
 
 ## Juriye Not
@@ -46,28 +46,27 @@ Bir müzedeki kayıp eşyaları zamanda yolculuk yaparak bulup getirmeyi misyon 
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
+- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.SPRİNT%20(dailyscrumgörüntüleri).docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
+![Backlog 1](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.%20sprint%20sonu.jpeg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
-  ![Screenshot 3]()
+  ![Screenshots](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.SPRİNT%20(dailyscrumgörüntüleri).docx)
+  
 - **Sprint Review**: 
-Alınan kararlar: (?)
-Sprint Review katılımcıları: 
+İlk tema için tüm modeller oluşturuldu ve üç level tasarımı da tamamlandı. Ana mekanikler olan zaman mekaniklerinin üçü de yapıldı. Karakter modeli yapıldı ve kontrol mekaniği yapıldı.
+Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran, Cem Demir, Zeynep Kuru.
 
 - **Sprint Retrospective:**
-  - (?)
+  - 19.06.2023 20.00 tarihinde toplantı yapılacak ve notları buraya aktarılacaktır.
 
 
 ---

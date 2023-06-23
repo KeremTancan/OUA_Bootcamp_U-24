@@ -71,7 +71,7 @@ public class TimeRewindObjectt : MonoBehaviour
     private void StopRewind()
     {
         isRewinding = false;
-        rb.isKinematic = false;
+        
     }
 }
 

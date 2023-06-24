@@ -14,7 +14,9 @@ public class Movement : MonoBehaviour
     Animator anim;
     public float jumpForce = 2f;
 
-    TimeRewindObjectt timeScript;
+    
+
+    public static bool isMountain = false;
 
     private void Start()
     {
@@ -55,6 +57,23 @@ public class Movement : MonoBehaviour
             onGround = true;
         }
         
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("mountain"))
+        {
+            
+            isMountain = true;
+            TimeRewindObjectt.rb.isKinematic = false;
+        }
+    }
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.CompareTag("mountain"))
+        {
+            
+            isMountain = false;
+        }
     }
     private void GatherInput()
     {

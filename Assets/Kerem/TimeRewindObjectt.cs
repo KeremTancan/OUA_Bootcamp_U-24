@@ -13,11 +13,13 @@ public class TimeRewindObjectt : MonoBehaviour
     private bool isRewinding = false;
     private List<ObjectState> objectStates = new List<ObjectState>();
 
-    private Rigidbody rb;
+    public static Rigidbody rb;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
+        rb.isKinematic = true;
+        
     }
 
     private void Update()

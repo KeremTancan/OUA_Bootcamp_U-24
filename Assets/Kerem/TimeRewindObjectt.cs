@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.Rendering;
 using UnityEngine;
 
 public class TimeRewindObjectt : MonoBehaviour
@@ -13,13 +14,14 @@ public class TimeRewindObjectt : MonoBehaviour
     private bool isRewinding = false;
     private List<ObjectState> objectStates = new List<ObjectState>();
 
-    public static Rigidbody rb;
+    public Rigidbody rb;
+    CameraFollow cameraScript;
 
     private void Start()
     {
         rb = GetComponent<Rigidbody>();
         rb.isKinematic = true;
-        
+
     }
 
     private void Update()
@@ -27,18 +29,41 @@ public class TimeRewindObjectt : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.R))
         {
             if (!isRewinding)
+            {
                 StartRewind();
+            }
+               
             else
+            {
                 StopRewind();
+            }
+                
+        }
+    
+        if (!Movement.isMountain)
+        {
+            
+            Debug.Log("dýþarda");
+        }
+        if (Movement.isMountain) 
+        {
+            Debug.Log("içerde");
+            rb.isKinematic = false;
         }
     }
-
+    
     private void FixedUpdate()
     {
         if (isRewinding)
+        {
             RewindObject();
+        }
+            
         else
+        {
             RecordObjectState();
+        }
+            
     }
 
     private void RecordObjectState()
@@ -47,6 +72,7 @@ public class TimeRewindObjectt : MonoBehaviour
         state.position = transform.position;
         state.rotation = transform.rotation;
         objectStates.Add(state);
+        
     }
 
     private void RewindObject()
@@ -61,6 +87,7 @@ public class TimeRewindObjectt : MonoBehaviour
         else
         {
             StopRewind();
+            
         }
     }
 
@@ -73,7 +100,7 @@ public class TimeRewindObjectt : MonoBehaviour
     private void StopRewind()
     {
         isRewinding = false;
-        
+        rb.isKinematic = true;
     }
 }
 

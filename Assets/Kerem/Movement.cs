@@ -10,13 +10,14 @@ public class Movement : MonoBehaviour
     [SerializeField] private float _turnSpeed = 360;
     private Vector3 _input;
     private bool onGround = false;
+    public static bool isDomino = false;
 
     Animator anim;
     public float jumpForce = 2f;
 
     
 
-    public static bool isMountain = false;
+    public static bool isMountain;
 
     private void Start()
     {
@@ -58,13 +59,21 @@ public class Movement : MonoBehaviour
         }
         
     }
+    private void OnCollisionExit(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("bone"))
+        {
+
+            isDomino = true;
+        }
+    }
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("mountain"))
         {
             
             isMountain = true;
-            TimeRewindObjectt.rb.isKinematic = false;
+            
         }
     }
     private void OnTriggerExit(Collider other)
@@ -74,6 +83,7 @@ public class Movement : MonoBehaviour
             
             isMountain = false;
         }
+        
     }
     private void GatherInput()
     {

@@ -40,14 +40,9 @@ public class TimeRewindObjectt : MonoBehaviour
                 
         }
     
-        if (!Movement.isMountain)
-        {
-            
-            Debug.Log("dýþarda");
-        }
+        
         if (Movement.isMountain) 
-        {
-            Debug.Log("içerde");
+        {    
             rb.isKinematic = false;
         }
     }
@@ -95,12 +90,14 @@ public class TimeRewindObjectt : MonoBehaviour
     {
         isRewinding = true;
         rb.isKinematic = true;
+        
     }
 
     private void StopRewind()
     {
         isRewinding = false;
         rb.isKinematic = true;
+        
     }
 }
 

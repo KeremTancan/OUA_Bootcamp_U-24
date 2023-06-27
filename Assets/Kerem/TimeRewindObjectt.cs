@@ -26,7 +26,7 @@ public class TimeRewindObjectt : MonoBehaviour
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.R))
+        if (Input.GetKeyDown(KeyCode.R) && rb.isKinematic == false)
         {
             if (!isRewinding)
             {
@@ -90,13 +90,14 @@ public class TimeRewindObjectt : MonoBehaviour
     {
         isRewinding = true;
         rb.isKinematic = true;
-        
+        CameraFollow.isRunning = true;
     }
 
     private void StopRewind()
     {
         isRewinding = false;
         rb.isKinematic = true;
+        CameraFollow.isRunning = false;
         
     }
 }

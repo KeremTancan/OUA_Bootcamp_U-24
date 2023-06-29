@@ -8,6 +8,7 @@ TagManager:
   - Ground
   - mountain
   - bone
+  - water
   layers:
   - Default
   - TransparentFX

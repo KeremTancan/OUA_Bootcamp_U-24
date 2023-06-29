@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TreeEditor;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Movement : MonoBehaviour
 {
@@ -49,6 +50,10 @@ public class Movement : MonoBehaviour
             GetComponent<Rigidbody>().AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             
         }
+        if(_rb.position.y <= 10)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
         
     }
     private void OnCollisionEnter(Collision collision)
@@ -75,6 +80,7 @@ public class Movement : MonoBehaviour
             isMountain = true;
             
         }
+        
     }
     private void OnTriggerExit(Collider other)
     {

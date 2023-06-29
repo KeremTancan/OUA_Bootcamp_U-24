@@ -50,7 +50,7 @@ public class Movement : MonoBehaviour
             GetComponent<Rigidbody>().AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             
         }
-        if(_rb.position.y <= 10)
+        if(_rb.position.y <= 13)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }

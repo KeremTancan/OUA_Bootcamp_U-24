@@ -16,7 +16,6 @@ public class TimeRewindObjectt : MonoBehaviour
     private List<ObjectState> objectStates = new List<ObjectState>();
 
     public Rigidbody rb;
-    
 
     private void Start()
     {
@@ -82,8 +81,9 @@ public class TimeRewindObjectt : MonoBehaviour
             ObjectState state = objectStates[objectStates.Count - 1];
             transform.position = state.position;
             transform.rotation = state.rotation;
-            objectStates.RemoveAt(objectStates.Count - 1);          
+            objectStates.RemoveAt(objectStates.Count - 1);        
         }
+        
         else
         {
             StopRewind();

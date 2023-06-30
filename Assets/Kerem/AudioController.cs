@@ -17,15 +17,18 @@ public class AudioController : MonoBehaviour
         if(TimeRewindObjectt.GeriSar)
         {         
             audioSource.pitch = -1f;
+            Debug.Log("-1");
         }
         
         if (RotateObject.Durdu)
         {
+            Debug.Log("0.5");
             audioSource.pitch = 0.5f;  
         }
 
         else if (!TimeRewindObjectt.GeriSar)
         {
+            Debug.Log("1");
             audioSource.pitch = 1f;
         }
         

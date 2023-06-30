@@ -16,6 +16,9 @@ public class CameraFollow : MonoBehaviour
     private float duration = 5f;
     public static bool isRunning = false;
 
+    
+
+    
     void LateUpdate()
     {
         if (!Movement.isMountain)
@@ -24,6 +27,8 @@ public class CameraFollow : MonoBehaviour
             camera2.enabled = false;
             desiredPosition = target.position + offset;
             transform.position = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed * Time.deltaTime);
+
+            
             
             
         }
@@ -33,6 +38,7 @@ public class CameraFollow : MonoBehaviour
         }
         if (isRunning)
         {
+            
 
             camera1.enabled = false;
             camera2.enabled = true;

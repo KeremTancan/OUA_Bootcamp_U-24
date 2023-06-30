@@ -12,10 +12,11 @@ public class TimeRewindObjectt : MonoBehaviour
     }
 
     private bool isRewinding = false;
+    public static bool GeriSar;
     private List<ObjectState> objectStates = new List<ObjectState>();
 
     public Rigidbody rb;
-    CameraFollow cameraScript;
+    
 
     private void Start()
     {
@@ -51,7 +52,9 @@ public class TimeRewindObjectt : MonoBehaviour
     {
         if (isRewinding)
         {
+            
             RewindObject();
+            
         }
             
         else
@@ -74,15 +77,17 @@ public class TimeRewindObjectt : MonoBehaviour
     {
         if (objectStates.Count > 0)
         {
+            GeriSar = true;
+
             ObjectState state = objectStates[objectStates.Count - 1];
             transform.position = state.position;
             transform.rotation = state.rotation;
-            objectStates.RemoveAt(objectStates.Count - 1);
+            objectStates.RemoveAt(objectStates.Count - 1);          
         }
         else
         {
             StopRewind();
-            
+            GeriSar = false;
         }
     }
 

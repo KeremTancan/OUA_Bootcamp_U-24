@@ -6,6 +6,7 @@ public class RotateObject : MonoBehaviour
 {
     public float rotationSpeed = 100f; 
     private bool isPaused = false; 
+    public static bool Durdu = false;
     private float pauseDuration = 3f; 
     private float pauseTimer = 0f; 
 
@@ -14,7 +15,8 @@ public class RotateObject : MonoBehaviour
         if (!isPaused)
         {
             float rotationAmount = rotationSpeed * Time.deltaTime;
-            transform.Rotate(Vector3.right, rotationAmount); 
+            transform.Rotate(Vector3.right, rotationAmount);
+            
         }
         else
         {
@@ -25,6 +27,7 @@ public class RotateObject : MonoBehaviour
             {
                 
                 isPaused = false;
+                Durdu = false;
                 pauseTimer = 0f;
             }
         }
@@ -33,11 +36,13 @@ public class RotateObject : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.P))
         {
             PauseRotation();
+            
         }
     }
 
     void PauseRotation()
     {
         isPaused = true;
+        Durdu = true;
     }
 }

@@ -21,7 +21,8 @@ Takım U24 - KRONOS
 
 ## Ürün Açıklaması
 
-Bir müzedeki kayıp eşyaları zamanda yolculuk yaparak bulup getirmeyi misyon edinmiş bir kahraman Kairos, zaman bükme yetenekleriyle çağlardan çağlara atlayarak büyük bir macera yaşıyor. (???)
+ Zaman ve mekan arasındaki dengeyi sağlamak için seçilmiş olan Kairos, zamanı bükme yetenekleriyle çağlardan çağlara atlayarak müzedeki kayıp eşyaları bulup geri getidiği büyük bir macera yaşıyor.
+(???)
 
 
 - **Oyunun birincil fonksiyonu**: (?)
@@ -30,11 +31,11 @@ Bir müzedeki kayıp eşyaları zamanda yolculuk yaparak bulup getirmeyi misyon 
 
 ## Ürün Özellikleri
 
-İzometrik bakış açısına sahip ve zamanı kontrol etme ögeleriyle platformları tamamlamak için puzzle çözme macera oyunudur.
+İzometrik bakış açısına ve zamanı kontrol etme öğeleriyle platformdaki engelleri/bulmacaları çözme gücüne sahip 3D bir macera oyunudur.
 
 ## Hedef Kitle
 
-Oyun 8 yaş üzeri herkese hitap ediyor
+Oyun 8 yaş üzeri herkese hitap ediyor.
 
 
 ## Juriye Not
@@ -68,7 +69,7 @@ Oyun 8 yaş üzeri herkese hitap ediyor
 Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran, Cem Demir, Zeynep Kuru.
 
 - **Sprint Retrospective:**
-  - 19.06.2023 20.00 tarihinde toplantı yapılacak ve notları buraya aktarılacaktır.
+  - 19.06.2023 20.00 tarihinde deeğrlendirme toplantısı yapıldı. Yalnızca bir görev diğer sprinte aktarıldı ancak herkes birden fazla görevi yerine getirdiği ve günlük görev güncellemelerinde aktif rol oynadığı için bu durum bir eksik olarak değerlendirilmedi. Diğer sprintte de aynı şekilde devam etme kararı üzerinde duruldu. 
 
 
 ---

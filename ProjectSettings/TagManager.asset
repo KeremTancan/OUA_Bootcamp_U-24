@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - stop
+  - Ground
+  - mountain
+  - bone
+  - water
   layers:
   - Default
   - TransparentFX

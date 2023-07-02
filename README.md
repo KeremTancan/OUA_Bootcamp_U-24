@@ -85,7 +85,9 @@ Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/2.SPRİNT%20(dailyscrumgörüntüleri).docx)
+- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]()
+
+
 
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -96,7 +98,7 @@ Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran
   ![Screenshot 1](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/UI%20ana%20men%C3%BC.jpeg)
   ![Screenshot 2](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/ilk%C3%A7a%C4%9F.jpeg)
   ![Screenshot 3](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/orta%C3%A7a%C4%9F.jpeg)
-  ![Screenshot 3](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/%C4%B1ntrocutscene.jpeg)
+  ![Screenshot 4](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/%C4%B1ntrocutscene.jpeg)
   
 - **Sprint Review**: 
 Oyun için gerekli tüm modeller artistimiz tarafından yapıldı. Level designerımız tarafından 2. level olan Ortaçağ leveli de hazırlandı. Developerlar tarafından levellere engeller konuldu, mekanikler oyuna entegre edildi, ana menü yapıldı ve intro için timeline üzerinden bir cutscene düzenlendi.

@@ -13,12 +13,12 @@ public class CubeHareket : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(transform.position.x > 4)
+        if(transform.position.x > 7)
         {
             speed = -6;
           
         }
-        else if(transform.position.x < -2)
+        else if(transform.position.x < -7)
         {
             speed = 6;
         }

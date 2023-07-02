@@ -17,11 +17,11 @@ public class SlowMotion : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Q)) 
         {
-            Time.timeScale = 0.2f;
+            Time.timeScale = 0.4f;
         }
         else
         {
-            Time.timeScale += (1f / slowdownLength) * Time.unscaledDeltaTime;
+            Time.timeScale += (0.2f / slowdownLength) * Time.unscaledDeltaTime;
             Time.timeScale = Mathf.Clamp(Time.timeScale, 0f, 1f);
             
         }

@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class Rotation : MonoBehaviour
 {
-    public float rotationSpeed = 10f;
+    public float rollingSpeed = 10f;
 
-    void Update()
+    private void Start()
     {
-        transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime);
+        Rigidbody rb = GetComponent<Rigidbody>();
+        rb.velocity = transform.forward * rollingSpeed;
     }
 }

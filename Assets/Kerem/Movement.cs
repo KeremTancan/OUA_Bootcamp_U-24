@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TreeEditor;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Movement : MonoBehaviour
 {
@@ -10,11 +11,14 @@ public class Movement : MonoBehaviour
     [SerializeField] private float _turnSpeed = 360;
     private Vector3 _input;
     private bool onGround = false;
+    public static bool isDomino = false;
 
     Animator anim;
     public float jumpForce = 2f;
 
-    TimeRewindObjectt timeScript;
+    
+
+    public static bool isMountain;
 
     private void Start()
     {
@@ -46,6 +50,10 @@ public class Movement : MonoBehaviour
             GetComponent<Rigidbody>().AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             
         }
+        if(_rb.position.y <= 13)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
         
     }
     private void OnCollisionEnter(Collision collision)
@@ -53,6 +61,33 @@ public class Movement : MonoBehaviour
         if (collision.gameObject.CompareTag("Ground"))
         {
             onGround = true;
+        }
+        
+    }
+    private void OnCollisionExit(Collision collision)
+    {
+        if (collision.gameObject.CompareTag("bone"))
+        {
+
+            isDomino = true;
+        }
+    }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("mountain"))
+        {
+            
+            isMountain = true;
+            
+        }
+        
+    }
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.gameObject.CompareTag("mountain"))
+        {
+            
+            isMountain = false;
         }
         
     }

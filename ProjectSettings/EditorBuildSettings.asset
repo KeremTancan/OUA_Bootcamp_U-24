@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Zeynep.unity
-    guid: 0878d69b80ffc504dae4835a4499ea1b
+    path: Assets/Scenes/IntroCanvas.unity
+    guid: e556eb011f25d334a9ae0f57eae42100
+  - enabled: 1
+    path: "Assets/Scenes/\u0130ntroScene.unity"
+    guid: 84e09f66fa98a084985feebd75d6380b
   m_configObjects: {}

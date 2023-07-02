@@ -55,6 +55,7 @@ Oyun 8 yaş üzeri herkese hitap ediyor.
 
 - **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.SPRİNT%20(dailyscrumgörüntüleri).docx)
 
+
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.%20sprint%20sonu.jpeg) 
 
@@ -84,7 +85,8 @@ Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats].(https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/2.%20SPR%C4%B0NT%20(dailyscrumg%C3%B6r%C3%BCnt%C3%BCleri.docx).
+- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/2.SPRİNT%20(dailyscrumgörüntüleri).docx)
+
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/2.sprint%20sonu.jpeg) 

@@ -55,6 +55,7 @@ Oyun 8 yaş üzeri herkese hitap ediyor.
 
 - **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.SPRİNT%20(dailyscrumgörüntüleri).docx)
 
+
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%201%20Documents/1.%20sprint%20sonu.jpeg) 
 
@@ -84,23 +85,29 @@ Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]()
+- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/2.%20SPR%C4%B0NT%20(dailyscrumg%C3%B6r%C3%BCnt%C3%BCleri.docx)
+
+
+
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
+![Backlog 1](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/2.sprint%20sonu.jpeg) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
-  ![Screenshot 3]()
+  ![Screenshot 1](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/UI%20ana%20men%C3%BC.jpeg)
+  ![Screenshot 2](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/ilk%C3%A7a%C4%9F.jpeg)
+  ![Screenshot 3](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/orta%C3%A7a%C4%9F.jpeg)
+  ![Screenshot 4](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/%C4%B1ntrocutscene.jpeg)
+  
 - **Sprint Review**: 
-Alınan kararlar: (?) 
-Sprint Review katılımcıları: 
+Oyun için gerekli tüm modeller artistimiz tarafından yapıldı. Level designerımız tarafından 2. level olan Ortaçağ leveli de hazırlandı. Developerlar tarafından levellere engeller konuldu, mekanikler oyuna entegre edildi, ana menü yapıldı ve intro için timeline üzerinden bir cutscene düzenlendi.
+
+Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran, Cem Demir, Zeynep Kuru.
 
 - **Sprint Retrospective:**
 
-  - (?)
+  - Bayram/tatiller dolayısıyla bu sprintte aktiflik genel olarak sağlanamadı. Ancak bu görevlerin tamamlanmasına engel olmadı. Görevler temel olarak yapıldı sadece üzerine eklemeler bir sonraki sprinte sarktı. 3.sprint için büyük görevler bırakılmadığı için bunun bir sorun olmadığına takım olarak hemfikirdik. Ancak son sprintte oyunun geliştirilmesi adına daha fazla aktif olunması gerektiği konusunda ortak karar alındı.
 
 
 ---

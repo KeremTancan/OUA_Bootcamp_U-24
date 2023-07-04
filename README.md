@@ -82,7 +82,8 @@ Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran
 ---
 
 # Sprint 2
-
+- **Sprint Notları**: Görevler için atanan puanlar sprint boardtaki görev başlıklarının yanında yazmaktadır. Dailyscrum görüntülerini içeren word dosyasının linki çalışır bir şekilde eklenemedi. Ancak kısa zamanda düzeleceğinden emin olabilirsiniz.
+  
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
  - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 2. sprintte de 120 puanlık görevleri tamamlama kararı alındı. Böylece 3. sprinte daha az yük bineceğinden oyunu iyileştirme ve geliştirme adına daha çok zaman kazanma hedeflendi.

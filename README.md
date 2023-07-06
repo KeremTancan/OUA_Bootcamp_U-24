@@ -82,10 +82,14 @@ Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran
 ---
 
 # Sprint 2
-
+- **Sprint Notları**: Görevler için atanan puanlar sprint boardtaki görev başlıklarının yanında yazmaktadır. Dailyscrum görüntülerini içeren word dosyasının linki çalışır bir şekilde eklenemedi. Ancak kısa zamanda düzeleceğinden emin olabilirsiniz.
+  
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/2.%20SPR%C4%B0NT%20(dailyscrumg%C3%B6r%C3%BCnt%C3%BCleri.docx)
+ - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 2. sprintte de 120 puanlık görevleri tamamlama kararı alındı. Böylece 3. sprinte daha az yük bineceğinden oyunu iyileştirme ve geliştirme adına daha çok zaman kazanma hedeflendi.
+
+
+- **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  [Sprint 2 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%202%20Documents/2.%20SPR%C4%B0NT%20(dailyscrumg%C3%B6r%C3%BCnt%C3%BCleri).docx).
 
 
 

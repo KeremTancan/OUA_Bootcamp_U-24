@@ -14,7 +14,6 @@ GameObject:
   - component: {fileID: 681431807247736596}
   - component: {fileID: -7369695559089113997}
   - component: {fileID: 3466388709215317861}
-  - component: {fileID: 8972818783270244628}
   m_Layer: 0
   m_Name: rockCampfire
   m_TagString: Untagged
@@ -35,7 +34,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
 --- !u!33 &3547256686065068207
 MeshFilter:
@@ -149,15 +148,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 0}
---- !u!114 &8972818783270244628
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4110807784695520635}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8029ad3d477f81e4faea32ac3f83ff42, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

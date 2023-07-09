@@ -332,7 +332,6 @@ GameObject:
   - component: {fileID: 6883647581301898425}
   - component: {fileID: 8317178896226223209}
   - component: {fileID: 1994406040182038775}
-  - component: {fileID: -262097695908926645}
   m_Layer: 0
   m_Name: 'rock4 '
   m_TagString: Untagged
@@ -470,15 +469,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 0}
---- !u!114 &-262097695908926645
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7845374152543684740}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8029ad3d477f81e4faea32ac3f83ff42, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

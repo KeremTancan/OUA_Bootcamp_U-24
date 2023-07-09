@@ -16,6 +16,9 @@ public class Movement : MonoBehaviour
     Animator anim;
     public float jumpForce = 2f;
 
+    public GameObject RewindImage;
+
+    public GameObject PauseImage;
     
 
     public static bool isMountain;
@@ -23,6 +26,8 @@ public class Movement : MonoBehaviour
     private void Start()
     {
         anim = GetComponent<Animator>();
+        RewindImage.SetActive(false);
+        PauseImage.SetActive(false);
     }
     private void Update()
     {
@@ -53,6 +58,22 @@ public class Movement : MonoBehaviour
         if(_rb.position.y <= 13)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+        if (TimeRewindObjectt.GeriSar)
+        {
+            RewindImage.SetActive(true);
+        }
+        else
+        {
+            RewindImage.SetActive(false);
+        }
+        if (RotateObject.Durdu)
+        {
+            PauseImage.SetActive(true);
+        }
+        else
+        {
+            PauseImage.SetActive(false);
         }
         
     }

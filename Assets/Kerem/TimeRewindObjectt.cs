@@ -11,6 +11,8 @@ public class TimeRewindObjectt : MonoBehaviour
         public Quaternion rotation;
     }
 
+    
+
     private bool isRewinding = false;
     public static bool GeriSar;
     private List<ObjectState> objectStates = new List<ObjectState>();
@@ -23,6 +25,7 @@ public class TimeRewindObjectt : MonoBehaviour
     {
         rb = GetComponent<Rigidbody>();
         rb.isKinematic = true;
+        
 
     }
 
@@ -93,10 +96,12 @@ public class TimeRewindObjectt : MonoBehaviour
             Debug.Log("Gerisarýyor");
             GeriSar = true;
             CameraFollow.isRunning = true;
+            
         }
         
         else
         {
+            
             CameraFollow.isRunning = false;
             Debug.Log("durdu");
             StopRewind();          

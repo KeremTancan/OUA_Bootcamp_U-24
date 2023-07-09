@@ -27,7 +27,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2167975191671958962}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0043541905, y: -0.032393094, z: 0.0049225995}
+  m_LocalPosition: {x: 0.0044, y: -0.0502, z: 0.0049}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -355,7 +355,7 @@ Transform:
   - {fileID: 4298340029525587226}
   - {fileID: 7729488797611488300}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: -89.98, y: 0, z: 0}
 --- !u!33 &8961506686999309775
 MeshFilter:
@@ -468,4 +468,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bcfea847f5ff87440888cd3223562e0c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  RewindCanvas: {fileID: 0}
   rb: {fileID: 0}

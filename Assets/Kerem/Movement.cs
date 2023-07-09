@@ -19,7 +19,8 @@ public class Movement : MonoBehaviour
     public GameObject RewindImage;
 
     public GameObject PauseImage;
-    
+
+    private int speed;
 
     public static bool isMountain;
 
@@ -33,6 +34,7 @@ public class Movement : MonoBehaviour
     {
         GatherInput();
         Look();
+        this.transform.Translate(new Vector3(Time.unscaledDeltaTime * speed, 0, 0));
     }
 
     private void FixedUpdate()

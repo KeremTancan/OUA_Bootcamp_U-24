@@ -1429,7 +1429,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4449356809981097213}
-  - component: {fileID: 3276334497178482361}
+  - component: {fileID: 2124925517969991387}
   m_Layer: 0
   m_Name: mixamorig:Hips
   m_TagString: Player
@@ -1455,8 +1455,8 @@ Transform:
   m_Father: {fileID: 8817092933589655473}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!136 &3276334497178482361
-CapsuleCollider:
+--- !u!65 &2124925517969991387
+BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1473,11 +1473,9 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.347678
-  m_Height: 1.9897058
-  m_Direction: 1
-  m_Center: {x: 7.297011e-13, y: 0.37470758, z: -0.152322}
+  serializedVersion: 3
+  m_Size: {x: 0.34516948, y: 1.6717663, z: 0.2790237}
+  m_Center: {x: -0.05454025, y: 0.23747301, z: 0.030071814}
 --- !u!1 &6858993994411890803
 GameObject:
   m_ObjectHideFlags: 0
@@ -1544,7 +1542,7 @@ Transform:
   - {fileID: 5922595777339176956}
   - {fileID: 4449356809981097213}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1904566603167798295
 Animator:
@@ -1583,6 +1581,8 @@ MonoBehaviour:
   _speed: 5
   _turnSpeed: 600
   jumpForce: 5
+  RewindImage: {fileID: 0}
+  PauseImage: {fileID: 0}
 --- !u!54 &4915778772962797720
 Rigidbody:
   m_ObjectHideFlags: 0

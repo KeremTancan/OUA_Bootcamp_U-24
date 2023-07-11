@@ -12,10 +12,10 @@ GameObject:
   - component: {fileID: 636642990465484956}
   - component: {fileID: 2943387044020317058}
   - component: {fileID: 7653104824614525650}
-  - component: {fileID: 7065371484950263637}
+  - component: {fileID: 7807266625402964859}
   m_Layer: 0
   m_Name: Odun
-  m_TagString: stop
+  m_TagString: SwimObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29,11 +29,11 @@ Transform:
   m_GameObject: {fileID: 4278912937414990232}
   m_LocalRotation: {x: -0.618255, y: -0.34316292, z: -0.34316292, w: 0.618255}
   m_LocalPosition: {x: -3408.9, y: -294.48, z: 684.0101}
-  m_LocalScale: {x: 61.349545, y: 73.83407, z: 76.649895}
+  m_LocalScale: {x: 160, y: 250, z: 200}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: -1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: -58.065}
 --- !u!33 &636642990465484956
 MeshFilter:
@@ -101,37 +101,23 @@ MeshCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 5
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4477958967841296779, guid: 1ddab8698cef0e141b24f23eceea60c4, type: 3}
---- !u!54 &7065371484950263637
-Rigidbody:
+--- !u!114 &7807266625402964859
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4278912937414990232}
-  serializedVersion: 4
-  m_Mass: 1
-  m_Drag: 0
-  m_AngularDrag: 0.05
-  m_CenterOfMass: {x: 0, y: 0, z: 0}
-  m_InertiaTensor: {x: 1, y: 1, z: 1}
-  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ImplicitCom: 1
-  m_ImplicitTensor: 1
-  m_UseGravity: 1
-  m_IsKinematic: 0
-  m_Interpolate: 0
-  m_Constraints: 0
-  m_CollisionDetection: 0
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72848195e2d6ac848bb100ffe7958c01, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slowdownLength: 8

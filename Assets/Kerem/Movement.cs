@@ -20,7 +20,7 @@ public class Movement : MonoBehaviour
 
     public GameObject PauseImage;
 
-    private int speed;
+    
 
     public static bool isMountain;
 
@@ -29,12 +29,13 @@ public class Movement : MonoBehaviour
         anim = GetComponent<Animator>();
         RewindImage.SetActive(false);
         PauseImage.SetActive(false);
+        
     }
     private void Update()
     {
         GatherInput();
         Look();
-        this.transform.Translate(new Vector3(Time.unscaledDeltaTime * speed, 0, 0));
+        
     }
 
     private void FixedUpdate()

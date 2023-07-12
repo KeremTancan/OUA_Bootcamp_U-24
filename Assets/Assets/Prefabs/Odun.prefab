@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 636642990465484956}
   - component: {fileID: 2943387044020317058}
   - component: {fileID: 7653104824614525650}
-  - component: {fileID: 7807266625402964859}
   m_Layer: 0
   m_Name: Odun
   m_TagString: SwimObject
@@ -108,16 +107,3 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 4477958967841296779, guid: 1ddab8698cef0e141b24f23eceea60c4, type: 3}
---- !u!114 &7807266625402964859
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4278912937414990232}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 72848195e2d6ac848bb100ffe7958c01, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  slowdownLength: 8

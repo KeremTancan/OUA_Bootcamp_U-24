@@ -10,26 +10,59 @@ public class ObjectSpawner : MonoBehaviour
 
     private float spawnTimer;
     private int objectSayac;
+    public float rotationSpeed = 100f;
+    private bool isPaused = false;
+    public static bool Durdu = false;
+    private float pauseDuration = 3f;
+    private float pauseTimer = 0f;
 
     private void Start()
     {
         spawnTimer = spawnInterval;
         objectSayac = 0;
     }
-
-    private void Update()
+    void Update()
     {
-        spawnTimer -= Time.deltaTime;
-        if (spawnTimer <= 0f)
+        if (!isPaused)
         {
-            SpawnObject();
-            spawnTimer = spawnInterval;
+            spawnTimer -= Time.deltaTime;
+            if (spawnTimer <= 0f)
+            {
+                SpawnObject();
+                spawnTimer = spawnInterval;
+            }
+            foreach (Transform child in transform)
+            {
+                child.Translate(Vector3.right * moveSpeed * Time.deltaTime);
+            }
+
         }
-        foreach (Transform child in transform)
+        else
         {
-            child.Translate(Vector3.right * moveSpeed * Time.deltaTime);
+
+            pauseTimer += Time.deltaTime;
+
+            if (pauseTimer >= pauseDuration)
+            {
+
+                isPaused = false;
+                Durdu = false;
+                pauseTimer = 0f;
+            }
         }
 
+
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            Pause();
+
+        }
+    }
+
+    void Pause()
+    {
+        isPaused = true;
+        Durdu = true;
     }
 
     private void SpawnObject()
@@ -43,4 +76,6 @@ public class ObjectSpawner : MonoBehaviour
             objectSayac--;
         }
     }
+    
+
 }

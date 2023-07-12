@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using TreeEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -70,7 +69,7 @@ public class Movement : MonoBehaviour
         {
             RewindImage.SetActive(false);
         }
-        if (RotateObject.Durdu)
+        if (RotateObject.Durdu || ObjectSpawner.Durdu)
         {
             PauseImage.SetActive(true);
         }

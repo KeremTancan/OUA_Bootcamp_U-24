@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class PopUpMessage : MonoBehaviour
 {
-    public GameObject text;   
-
+    public GameObject text;
     private void Start()
     {
         text.SetActive(false);
@@ -15,6 +14,7 @@ public class PopUpMessage : MonoBehaviour
         if (other.gameObject.CompareTag("Player"))
         {
             text.SetActive(true);
+           
         }
     }
 

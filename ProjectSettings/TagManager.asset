@@ -9,6 +9,7 @@ TagManager:
   - mountain
   - bone
   - water
+  - SwimObject
   layers:
   - Default
   - TransparentFX

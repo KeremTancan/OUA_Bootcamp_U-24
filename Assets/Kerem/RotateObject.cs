@@ -33,14 +33,14 @@ public class RotateObject : MonoBehaviour
         }
 
         
-        if (Input.GetKeyDown(KeyCode.P))
+        if (Input.GetKeyDown(KeyCode.E))
         {
-            PauseRotation();
+            Pause();
             
         }
     }
 
-    void PauseRotation()
+    void Pause()
     {
         isPaused = true;
         Durdu = true;

@@ -35,8 +35,8 @@ public class RespawnController : MonoBehaviour
 
     void MoveToPreviousPosition()
     {
-        transform.position = positionHistory[positionHistory.Count - 5];
-        positionHistory.Clear();
+        transform.position = positionHistory[positionHistory.Count - 7];
+       
 
     }
 

@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 7163f8140180a9b4dacde282525d87ba
   - enabled: 1
+    path: Assets/Scenes/Museum.unity
+    guid: ff28d0bfed2eba34a8868d1f32e76efe
+  - enabled: 1
     path: Assets/Scenes/StoneAge.unity
     guid: 0878d69b80ffc504dae4835a4499ea1b
   - enabled: 1

@@ -4,14 +4,14 @@ using UnityEngine.SceneManagement;
 
 public class VideoPlayerController : MonoBehaviour
 {
-    public VideoPlayer videoPlayer;
+    public GameObject videoPlayer;
   
 
     private void OnTriggerEnter(Collider other)
     {
         if(other.gameObject.CompareTag("Player"))
         {
-            videoPlayer.loopPointReached += OnVideoEnd;
+            videoPlayer.SetActive(true);
         }
     }
 

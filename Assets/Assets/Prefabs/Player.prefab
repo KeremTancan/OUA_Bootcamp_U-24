@@ -1519,6 +1519,7 @@ GameObject:
   - component: {fileID: 8817092933589655473}
   - component: {fileID: 1904566603167798295}
   - component: {fileID: 7829447094735019395}
+  - component: {fileID: 4243687111735271642}
   - component: {fileID: 4915778772962797720}
   m_Layer: 0
   m_Name: Player
@@ -1542,7 +1543,7 @@ Transform:
   - {fileID: 5922595777339176956}
   - {fileID: 4449356809981097213}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &1904566603167798295
 Animator:
@@ -1583,6 +1584,19 @@ MonoBehaviour:
   jumpForce: 5
   RewindImage: {fileID: 0}
   PauseImage: {fileID: 0}
+--- !u!114 &4243687111735271642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7041510940183442148}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e601a40b82920344590ee81b5afffe24, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interpolationPeriod: 1
 --- !u!54 &4915778772962797720
 Rigidbody:
   m_ObjectHideFlags: 0

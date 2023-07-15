@@ -15,6 +15,7 @@ public class ObjectSpawner : MonoBehaviour
     public static bool Durdu = false;
     private float pauseDuration = 3f;
     private float pauseTimer = 0f;
+    
 
     private void Start()
     {

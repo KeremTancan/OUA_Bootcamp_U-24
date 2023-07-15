@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/StoneAge.unity
     guid: 0878d69b80ffc504dae4835a4499ea1b
   - enabled: 1
+    path: Assets/Scenes/Museum 1.unity
+    guid: 5d336cbffe7d51745921e5482c82458a
+  - enabled: 1
     path: Assets/Scenes/Medieval.unity
     guid: c59805f19f916f9469ecb08fb7904f51
   m_configObjects: {}

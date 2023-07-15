@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 public class PopUpMessage : MonoBehaviour
 {
     public GameObject text;
-    public string LevelName;
     private void Start()
     {
         text.SetActive(false);
@@ -17,16 +16,8 @@ public class PopUpMessage : MonoBehaviour
         {
             text.SetActive(true);           
         }
-
-
     }
-    private void FixedUpdate()
-    {
-        if (Input.GetKeyDown(KeyCode.F))
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-        }
-    }
+    
     private void OnTriggerExit(Collider other)
     {
         if (other.gameObject.CompareTag("Player"))

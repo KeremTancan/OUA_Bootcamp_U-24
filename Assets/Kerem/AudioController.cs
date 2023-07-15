@@ -20,7 +20,7 @@ public class AudioController : MonoBehaviour
             Debug.Log("-1");
         }
         
-        if (RotateObject.Durdu)
+        if (RotateObject.Durdu || ObjectSpawner.Durdu)
         {
             Debug.Log("0.5");
             audioSource.pitch = 0.5f;  

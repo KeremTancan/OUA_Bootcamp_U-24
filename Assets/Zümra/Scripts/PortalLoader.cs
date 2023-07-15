@@ -19,6 +19,6 @@ public class PortalLoader : MonoBehaviour
 
     private void OnTimelineFinished(PlayableDirector pd)
     {
-        SceneManager.LoadScene("StoneAge");
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }

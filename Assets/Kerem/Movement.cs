@@ -29,6 +29,7 @@ public class Movement : MonoBehaviour
         RewindImage.SetActive(false);
         PauseImage.SetActive(false);
         
+        
     }
     private void Update()
     {
@@ -57,10 +58,7 @@ public class Movement : MonoBehaviour
             GetComponent<Rigidbody>().AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             
         }
-        if(_rb.position.y <= 13)
-        {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        }
+        
         if (TimeRewindObjectt.GeriSar)
         {
             RewindImage.SetActive(true);

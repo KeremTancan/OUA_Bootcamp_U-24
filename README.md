@@ -124,13 +124,13 @@ Sprint Review katılımcıları: Zümra Burtgil, Kerem Tancan, Furkan Yağdıran
 
 # Sprint 3
 
-- **Sprint Notları**: Görevler için atanan puanlar sprint boardtaki görev başlıklarının yanında yazmaktadır. 
+- **Sprint Notları**: Görevler için atanan puanlar sprint boardtaki görev başlıklarının yanında yazmaktadır. Game Artist rolünü alan Furkan arkadaşımız ayın 7'sinden sonra askere gittiğinden dolayı bize eşlik edememiştir. Ancak 3 sprintte yapması gereken tüm görevlerini 2 sprint içinde tamamlamış, bize gerekli olan tüm modellerimizi yapmış ve ek görevlerle de süreçte takıma tüm katkılarını sunmuştur.
   
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 1. ve 2. sprintte de 120 puan tamamlanmıştır. ^. sprintte ise kalan 100 puanın tamamlanması hedeflenmiştir.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 1. ve 2. sprintte de 120 puan tamamlanmıştır. 3. sprintte ise kalan 100 puanın tamamlanması hedeflenmiştir.
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının mesaj ve ses kanalları oluşturularak Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/KeremTancan/OUA_Bootcamp_U-24/blob/main/Assets/ProjectManagement/Sprint%203%20Documents/3.%20SPR%C4%B0NT%20(dailyscrumg%C3%B6r%C3%BCnt%C3%BCleri).docx)

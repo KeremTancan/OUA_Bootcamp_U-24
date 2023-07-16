@@ -21,9 +21,7 @@ Takım U24 - KRONOS
 
 ## Ürün Açıklaması
 
- Zaman ve mekan arasındaki dengeyi sağlamak için seçilmiş olan Kairos, zamanı bükme yetenekleriyle çağlardan çağlara atlayarak müzedeki kayıp eşyaları bulup geri getidiği büyük bir macera yaşıyor.
-(???)
-
+ Zaman ve mekan arasındaki dengeyi sağlamak için seçilmiş olan Kairos, zamanı bükme yetenekleriyle çağlardan çağlara atlayarak müzedeki kayıp eşyaları bulup geri getidiği büyük bir macera yaşıyor. Günümüzdeki müzeden yok olmuş eşyaların ait olduğu eski çağlara bir zaman portalıyla yolculuk yapıyor. Kayıp eşyaya ulaşmak için türlü engelleri zamanı durdurma, yavaşlatma ya da geriye sarma gibi yeteneklerini kullanarak aşması gerekiyor. 
 
 - **Oyunun birincil fonksiyonu**: (?)
 
@@ -31,7 +29,7 @@ Takım U24 - KRONOS
 
 ## Ürün Özellikleri
 
-İzometrik bakış açısına ve zamanı kontrol etme öğeleriyle platformdaki engelleri/bulmacaları çözme gücüne sahip 3D bir macera oyunudur.
+İzometrik bakış açısına ve zamanı kontrol etme öğeleriyle platformdaki engelleri geçme gücüne sahip bir oyuncunun 3D macera oyunudur. Tüm modellerimiz game artistimiz Furkan tarafından yapılmıştır. Oyunumuza Unity Analytics eklenmiştir.
 
 ## Hedef Kitle
 
@@ -40,7 +38,12 @@ Oyun 8 yaş üzeri herkese hitap ediyor.
 
 ## Juriye Not
 
-(Oyunun geliştirilmeye müsaitliğinden, ödül + reklam verme gibi artıların oyuna çok güzel entegre olabileceğinden bahsedilebilir.)
+Kairos'un macerası yalnızca bootcamp sürecini tamamlamak için geliştirilmiş bir oyun değildir. Bootcample başlayan ama iki aylık bir süreçten çok daha fazlasını gözeterek geliştirmeye çalıştığımız bir oyundur. Konusu, türü ve yüzlerce level temasına sahip olabileceği göz önünde bulundurulursa daha fazla teknik bilgiyle, daha fazla sürede ortaya uzun soluklu bir macera oyunun çıkmasını kaçınılmaz buluyoruz. Player'ın zamanı bükme becerileri ve oynanış tarzıyla ödül/reklam sisteminin kolaylıkla entegre edilebileceğini ve böylelikle oyun pazarında da kar amaçlı bir noktada durabileceğini düşünüyoruz.
+
+Şu an level temaları olarak yalnızca çağlar üzerinden gidildiyse de uzun soluklu bir oyun için çağların içinden dönemler, dönemlerin içinden ayrı ayrı coğrafyaların ele alındığı, gerçek eşyaların kayıp gösterildiği ve zaman kısıtlaması olan çok daha akıcı levellerin yapılması gibi pekçok detay düşünüldü.
+
+Tatlı bir bilgi; Takımımızın adı Kronos evrenin sonsuz döngüsü yani tanrının zamanını, oyuncumuzun ismi Kairos ise bizim yaşantımızda müdahale edebileceğimiz ve kullanabileceğimiz fırsatları taşıyan An'ları temsil eder.
+
 
 
 ---

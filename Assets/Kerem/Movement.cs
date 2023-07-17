@@ -77,22 +77,8 @@ public class Movement : MonoBehaviour
         }
         
     }
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision != null)
-        {
-            onGround = true;
-        }
-        
-    }
-    private void OnCollisionExit(Collision collision)
-    {
-        if (collision.gameObject.CompareTag("bone"))
-        {
-
-            isDomino = true;
-        }
-    }
+    
+ 
     private void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("mountain"))
@@ -101,7 +87,11 @@ public class Movement : MonoBehaviour
             isMountain = true;
             
         }
-        
+
+        if (other != null)
+        {
+            onGround = true;
+        }
     }
     private void OnTriggerExit(Collider other)
     {

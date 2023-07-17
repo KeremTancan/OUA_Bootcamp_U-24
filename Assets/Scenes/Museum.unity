@@ -4209,6 +4209,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4418c1fc7fa8c8c4eade1bea2b8e5351, type: 3}
+--- !u!1 &466372821 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4418c1fc7fa8c8c4eade1bea2b8e5351, type: 3}
+  m_PrefabInstance: {fileID: 466372820}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &468639956 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 63bcedb9862537b4d83bb880046a3496, type: 3}
@@ -5465,7 +5470,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: {fileID: 279132563}
   portal: {fileID: 1876188141}
-  missingart: {fileID: 1133212422}
+  missingart: {fileID: 466372821}
 --- !u!1 &625372310 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: d7d7a6dc7da932047a182b9564d1d93d, type: 3}

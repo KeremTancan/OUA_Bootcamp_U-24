@@ -1827,6 +1827,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 30, y: 45, z: 0}
+--- !u!1 &219454906 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 4418c1fc7fa8c8c4eade1bea2b8e5351, type: 3}
+  m_PrefabInstance: {fileID: 1107556263}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &222792263
 GameObject:
   m_ObjectHideFlags: 0
@@ -5517,7 +5522,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: {fileID: 279132563}
   portal: {fileID: 1876188141}
-  missingart: {fileID: 1133212422}
+  missingart: {fileID: 219454906}
 --- !u!1 &625372310 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: d7d7a6dc7da932047a182b9564d1d93d, type: 3}

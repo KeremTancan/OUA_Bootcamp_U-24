@@ -23,9 +23,9 @@ Takım U24 - KRONOS
 
  Zaman ve mekan arasındaki dengeyi sağlamak için seçilmiş olan Kairos, zamanı bükme yetenekleriyle çağlardan çağlara atlayarak müzedeki kayıp eşyaları bulup geri getidiği büyük bir macera yaşıyor. Günümüzdeki müzeden yok olmuş eşyaların ait olduğu eski çağlara bir zaman portalıyla yolculuk yapıyor. Kayıp eşyaya ulaşmak için türlü engelleri zamanı durdurma, yavaşlatma ya da geriye sarma gibi yeteneklerini kullanarak aşması gerekiyor. 
 
-- **Oyunun birincil fonksiyonu**: (?)
+- **Oyunun birincil fonksiyonu**: Zaman mekaniklerini engelleri geçmek için kullanarak levelleri tamamlamak.
 
-- **Oyunun ikincil fonksiyonu**: (?)
+- **Oyunun ikincil fonksiyonu**: Müzedeki kayıp eşyaları bulmak için zamanda yolculuk yapmak. 
 
 ## Ürün Özellikleri
 

@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -35,11 +36,19 @@ public class RespawnController : MonoBehaviour
 
     void MoveToPreviousPosition()
     {
-        transform.position = positionHistory[positionHistory.Count - 7];
-       
+
+        try
+        {
+            transform.position = positionHistory[positionHistory.Count - 7];
+            positionHistory.Clear();
+        }
+        catch (ArgumentOutOfRangeException)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
+
 
     }
 
-    
 }
 
